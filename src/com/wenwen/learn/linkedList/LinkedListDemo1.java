@@ -1,6 +1,6 @@
 package com.wenwen.learn.linkedList;
 
-/**说明：
+/**说明：单向链表
  * 创建一个单链表,实现他增删改查的方法
  * 首先创建一个节点对象node,再创建一个单链表，这个单链表里有一个head节点
  *
