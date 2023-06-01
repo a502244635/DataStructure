@@ -48,7 +48,7 @@ public class RecursionDemo2 {
     //寻路方法 策略：下右上左
     public static boolean setWay(int[][] miGong, int i, int j){
         //找到了
-        if (miGong[6][5] == 2){
+        if (miGong[6][2] == 2){
             return true;
         }else {
             if (miGong[i][j] == 0){
